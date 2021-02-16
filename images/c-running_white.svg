@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="550mm"
+   height="800mm"
+   viewBox="0 0 550 800"
+   version="1.1"
+   id="svg64"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   sodipodi:docname="c-running_white.svg">
+  <defs
+     id="defs58" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="754.37637"
+     inkscape:cy="1488.6335"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:lockguides="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="true" />
+  <metadata
+     id="metadata61">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:143.304px;line-height:0;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.995169"
+       x="24.039232"
+       y="781.18628"
+       id="text68"
+       transform="scale(1.0102703,0.9898341)"><tspan
+         sodipodi:role="line"
+         id="tspan66"
+         x="24.039232"
+         y="781.18628"
+         style="font-style:italic;font-variant:normal;font-weight:300;font-stretch:condensed;font-size:143.304px;font-family:'Arial Nova';-inkscape-font-specification:'Arial Nova Light Italic Condensed';stroke-width:0.995169">RUNNING</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:802.34px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.57181"
+       x="53.172497"
+       y="607.55225"
+       id="text76"
+       transform="scale(0.98986595,1.0102378)"><tspan
+         sodipodi:role="line"
+         id="tspan74"
+         x="53.172497"
+         y="607.55225"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:condensed;font-size:802.34px;font-family:'Arial Nova';-inkscape-font-specification:'Arial Nova Bold Condensed';stroke-width:5.57181">C</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke-width:0.286743"
+       id="rect86"
+       width="134.65395"
+       height="63.663162"
+       x="-145.14278"
+       y="-353.25681"
+       ry="0"
+       transform="matrix(-0.975519,0.21991518,-0.2268924,-0.97391983,0,0)" />
+  </g>
+</svg>

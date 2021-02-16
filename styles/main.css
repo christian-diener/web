@@ -1,0 +1,20 @@
+body {
+    background-color: #000;
+}
+
+div.shadow {
+    position:absolute;
+    max-width:75%;
+    max-height:75%;
+    top:50%;
+    left:50%;
+    overflow:visible;
+}
+
+img.logo {
+    position:relative;
+    max-width:35%;
+    max-height:35%;
+    margin-top:-50%;
+    margin-left:-50%;
+}
